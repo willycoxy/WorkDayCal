@@ -5,5 +5,5 @@ You can input data, and it will save in localstoage until you change it.
 
 [title] (https://willycoxy.github.io/WorkDayCal/)
 
-![alt text] (image.png)
+![alt text] image.png
 
